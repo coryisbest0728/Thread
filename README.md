@@ -1,2 +1,2 @@
-# Thread
-The thread class in typescript
+# XMLParser
+The high performance parser in XML
